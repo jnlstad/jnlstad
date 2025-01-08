@@ -3,6 +3,13 @@
 <p>Welcome to my page </p>
 <p>I'm a Fullstack Developer living in beautiful <b>Norway</b>, with a passion for building cool websites that blent great functionality with seamless user experiences.</p>
 
+<h3>What I'm Into</h3>
+<ul><li>
+Building web apps with Next.js, React, and Node.js</li>
+<li>Crafting functional and user-friendly interfaces</li>
+<li>Exploring new frameworks and tools
+Problem</li></ul>
+
 <h3>Things that work with</h3>
 <p>
   <img
