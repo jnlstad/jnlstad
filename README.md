@@ -1,7 +1,7 @@
 <h1> Hey, I'm Jan Elling! 🦊</h1>
 
 <p>Welcome to my page </p>
-<p>I'm a Fullstack developer living in Norway</p>
+<p>I'm a Fullstack developer living in Norway with an interest in </p>
 
 <h3>Things that I code with</h3>
 <p>
@@ -40,6 +40,10 @@
   <img
     alt="Python"
     src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"
+  />
+    <img
+    alt="Figma"
+    src="https://img.shields.io/badge/-figma-F24E1E?style=flat-square&logo=figma&logoColor=white"
   />
 </p>
 
