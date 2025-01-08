@@ -57,5 +57,5 @@ Building web apps with Next.js, React, and Node.js</li>
   />
 </p>
 
-<h3>Anilist</h3>
+<h3>My Anime Stats</h3>
 <img src="https://img.anili.st/user/7109001"  width="500">
