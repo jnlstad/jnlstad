@@ -33,6 +33,10 @@
     alt="CSS"
     src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white"
   />
+      <img
+    alt="Tailwindcss"
+    src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"
+  />
   <img
     alt="Nodejs"
     src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
