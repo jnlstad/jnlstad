@@ -1,9 +1,9 @@
 <h1> Hey, I'm Jan Elling! 🦊</h1>
 
 <p>Welcome to my page </p>
-<p>I'm a Fullstack developer living in Norway with an interest in </p>
+<p>I'm a Fullstack Developer living in beautiful <b>Norway</b>, with a passion for building cool websites that have great functionality with a great user experiences.</p>
 
-<h3>Things that I code with</h3>
+<h3>Things that work with</h3>
 <p>
   <img
     alt="NextJS"
