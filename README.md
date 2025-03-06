@@ -55,6 +55,11 @@ Building web apps with Next.js, React, and Node.js</li>
     alt="Figma"
     src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"
   />
+    <img
+    alt="AWS S3"
+    src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"
+  />
+  
       
 </p>
 
