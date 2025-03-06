@@ -9,7 +9,7 @@ Building web apps with Next.js, React, and Node.js</li>
 <li>Crafting functional and user-friendly interfaces</li>
 <li>Exploring new frameworks and tools</li></ul>
 
-<h3>Things that i work with</h3>
+<h3>Things that i work/have worked with</h3>
 <p>
   <img
     alt="NextJS"
@@ -39,7 +39,7 @@ Building web apps with Next.js, React, and Node.js</li>
     alt="CSS"
     src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white"
   />
-      <img
+  <img
     alt="Tailwindcss"
     src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"
   />
@@ -56,10 +56,20 @@ Building web apps with Next.js, React, and Node.js</li>
     src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"
   />
     <img
+    alt="AWS"
+    src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"
+  />
+    <img
     alt="AWS S3"
     src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"
   />
+    <img
+    alt="Arduino"
+    src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"
+  />
   
+
+
       
 </p>
 
