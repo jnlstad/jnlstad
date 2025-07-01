@@ -39,7 +39,6 @@
     alt="Docker"
     src="https://img.shields.io/badge/-Docker-3370E4?style=flat-square&logo=docker&logoColor=white"
   />
-  
   <img
     alt="CSS"
     src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white"
