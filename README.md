@@ -1,12 +1,12 @@
 <h1> Hey, I'm Jan Elling! 🦊</h1>
 
 <p>Welcome to my page </p>
-<p>I'm a Fullstack Developer living in beautiful <b>Norway</b>, with a passion for building cool websites that blend great functionality with seamless user experiences.</p>
+<p>I'm a Fullstack Developer living in beautiful <b>Norway</b>, with a passion for building fast and easy to use websites and APIs</p>
 
 <h3>What I'm Into</h3>
-<ul><li>
-Building web apps with Next.js, React, and Node.js</li>
-<li>Crafting functional and user-friendly interfaces</li>
+<ul>
+<li>Building web apps with Next.js, React, and Node.js</li>
+<li>Designing functional and user-friendly interfaces</li>
 <li>Exploring new frameworks and tools</li></ul>
 
 <h3>Things that i work/have worked with</h3>
@@ -35,6 +35,11 @@ Building web apps with Next.js, React, and Node.js</li>
     alt="html5"
     src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
   />
+    <img
+    alt="Docker"
+    src="https://img.shields.io/badge/-Docker-3370E4?style=flat-square&logo=docker&logoColor=white"
+  />
+  
   <img
     alt="CSS"
     src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white"
@@ -46,6 +51,10 @@ Building web apps with Next.js, React, and Node.js</li>
   <img
     alt="Nodejs"
     src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
+  />
+    <img
+    alt="Jest"
+    src="https://img.shields.io/badge/-Jest-BC1224?style=flat-square&logo=jest&logoColor=white"
   />
   <img
     alt="Python"
@@ -71,6 +80,8 @@ Building web apps with Next.js, React, and Node.js</li>
     alt="Arduino"
     src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"
   />
+
+  
   
 
 
