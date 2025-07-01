@@ -1,6 +1,4 @@
 <h1> Hey, I'm Jan Elling! 🦊</h1>
-
-<p>Welcome to my page </p>
 <p>I'm a Fullstack Developer living in <b>Norway</b> with a passion for building fast and easy-to-use websites and APIs.</p>
 
 <h3>What I'm Into</h3>
