@@ -1,7 +1,7 @@
 <h1> Hey, I'm Jan Elling! 🦊</h1>
 
 <p>Welcome to my page </p>
-<p>I'm a Fullstack Developer living in beautiful <b>Norway</b>, with a passion for building fast and easy to use websites and APIs</p>
+<p>I'm a Fullstack Developer living in <b>Norway</b> with a passion for building fast and easy-to-use websites and APIs.</p>
 
 <h3>What I'm Into</h3>
 <ul>
@@ -9,7 +9,7 @@
 <li>Designing functional and user-friendly interfaces</li>
 <li>Exploring new frameworks and tools</li></ul>
 
-<h3>Things that i work/have worked with</h3>
+<h3>Things that I work/have worked with</h3>
 <p>
   <img
     alt="NextJS"
@@ -35,7 +35,7 @@
     alt="html5"
     src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
   />
-    <img
+  <img
     alt="Docker"
     src="https://img.shields.io/badge/-Docker-3370E4?style=flat-square&logo=docker&logoColor=white"
   />
