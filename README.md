@@ -6,7 +6,7 @@
 <li>Building web apps with Next.js, React, and Node.js</li>
 <li>Designing functional and user-friendly interfaces</li>
 <li>Continuously challenging myself to learn and improve</li>
-<li>Keeping my code and projects tidy and efficient</li>
+<li>Building well-organized, scalable projects</li>
 </ul>
 
 <h3>Things that I work/have worked with</h3>
